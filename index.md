@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Welcome to Frankie's Page
 
-You can use the [editor on GitHub](https://github.com/Frankiee00/Frankies-Landing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, I am Frankie a first-year transfer student at UCSD. [Here](https://github.com/Frankiee00) is a link to my github page, which includes several projects that I have done as an individual.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I picked Computer Science as a major, because of my interest in coding and understanding the workings of everything we use in today's world. The options are limitless with Computer Science and I love having that option. I look forward to this class!
 
-### Markdown
+[Go to Food](#Favorite-Foods)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Quoting Random Code
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Some basic Git commands are:
+```
+git branch
+git add
+git commit
+git clone
+git push
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Interests
 
-### Jekyll Themes
+### Interest 1 - Soccer
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Frankiee00/Frankies-Landing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+One of my main interests in my life is soccer, I called it Futbol. I played it growing up as a kid and played at the collegiate level. My favorite player is **[Neymar](https://en.wikipedia.org/wiki/Neymar)**, due to his incredible technical skills. My favorite team as a whole is **[FC Barcelona](https://www.fcbarcelona.com/en/)**, due to their style of play and famously stamping their mark in history with the beautiful style of play of Tiki-Taka. 
 
-### Support or Contact
+### Interest 2 - Reading
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Besides, coding and soccer, I throughly do enjoy _reading books_ which are several categories, such as personal fianace, self-help, **_philosophy_**, etc. One of my favorite books is [Ego is The Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818), by Ryan Holiday. I do recommend to read this book as it speaks about humans biggest enemy, ego, and how it can be our demise. As well as, once we learn to combat this ego, we can truly achieve self-fulfillment.
+
+## Random Images
+![Image](https://en.meming.world/images/en/a/af/Surprised_Pikachu_3D.jpg)
+![Image](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fkristinakillgrove%2Ffiles%2F2019%2F04%2Fanimal-zoo-mammal-peru-close-up-llama-1076326-pxhere.com_-1200x800.jpg)
+
+## Top Drinks 
+- Water
+- Water
+- Water
+
+## Favorite Foods
+1. [Lomo Saltado](https://www.tablespoon.com/recipes/peruvian-lomo-saltado/34066af2-9838-475a-b8f9-6f720f8692e5)
+2. Pollo La Brasa
+3. Aji de Galina 
+
+
+In the words of Frankie:
+> The moon is beautiful!
+
+### Task List
+- [x] Finish lab
+
+
+
+
+
+
